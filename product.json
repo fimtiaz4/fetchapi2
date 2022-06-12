@@ -1,0 +1,57 @@
+[
+    {
+        "product_id": 11,
+        "name": "This is a test name",
+        "sku_list": [
+            {
+                "sku_id": 44,
+                "promotional_product": {
+                    "id": 55,
+                    "product_sku": "FG-AE04-TY31"
+                },
+                "sku_value": [
+                    {
+                        "sku_value_id": 66,
+                        "variant_option_value": {
+                            "variation_value_id": 77,
+                            "variant_option_id": 88
+                        }
+                    },
+                    {
+                        "sku_value_id": 99,
+                        "variant_option_value": {
+                            "variation_value_id": 111,
+                            "variant_option_id": 222
+                        }
+                    }
+                    
+                ]
+            },
+            {
+                "sku_id": 333,
+                "promotional_product": {
+                    "id": 444,
+                    "product_sku": "FG-AE04-TY32"
+                },
+                "sku_value": [
+                    {
+                        "sku_value_id": 555,
+                        "variant_option_value": {
+                            "variation_value_id": 666,
+                            "variant_option_id": 777
+                        }
+                    },
+                    {
+                        "sku_value_id": 888,
+                        "variant_option_value": {
+                            "variation_value_id": 999,
+                            "variant_option_id": 1111
+                        }
+                    }
+                    
+                ]
+            }                                    
+        ]
+    }
+    
+]
