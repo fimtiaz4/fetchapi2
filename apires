@@ -1,0 +1,3237 @@
+{
+  "Envelope": {
+    "Body": {
+      "ProductUpdateResponse": {
+        "ProductUpdateResult": {
+          "APIProductData": [
+            {
+              "ProductItem": {
+                "Active": true,
+                "BestSellerOverride": false,
+                "CanPreBook": false,
+                "CategoryIds": {
+                  "int": [
+                    193,
+                    1018,
+                    1276,
+                    1392
+                  ]
+                },
+                "CategoryNames": {
+                  "string": [
+                    "Friction Stays &amp; Hinges",
+                    "Mila",
+                    "Egress Friction Stays",
+                    "Black Friday Sale"
+                  ]
+                },
+                "CategoryTrees": {
+                  "ArrayOfKeyValuePairOfintstring": [
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 193,
+                          "value": "Friction Stays &amp; Hinges"
+                        },
+                        {
+                          "key": 191,
+                          "value": "Window Hardware"
+                        },
+                        {
+                          "key": 52,
+                          "value": "Multipoint &amp; UPVC"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1134,
+                          "value": "Brands"
+                        },
+                        {
+                          "key": 1018,
+                          "value": "Mila"
+                        },
+                        {
+                          "key": 593,
+                          "value": "Manufacturer"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1276,
+                          "value": "Egress Friction Stays"
+                        },
+                        {
+                          "key": 1272,
+                          "value": "Escape"
+                        },
+                        {
+                          "key": 1270,
+                          "value": "Fire Rated &amp; Escape"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1392,
+                          "value": "Black Friday Sale"
+                        },
+                        {
+                          "key": 1391,
+                          "value": "Black Friday"
+                        },
+                        {
+                          "key": 592,
+                          "value": "Special Offers"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "ChangeFreq": 0,
+                "Description": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "DescriptionFile1": "",
+                "DescriptionFile2": "",
+                "DescriptionFlag1": false,
+                "DescriptionFlag2": false,
+                "DescriptionFlag3": false,
+                "DescriptionFlag4": false,
+                "DescriptionImage1": "",
+                "DescriptionImage2": "",
+                "DescriptionText1": "",
+                "DescriptionText2": "",
+                "DescriptionText3": "",
+                "DescriptionText4": "",
+                "DescriptionText5": "",
+                "DescriptionText6": "",
+                "DescriptionText7": "",
+                "DescriptionText8": "",
+                "Featured": false,
+                "Features": {
+                  "APIFeatureData": [
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Manufacturer",
+                      "GroupId": 83,
+                      "Id": 130,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Mila"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Length",
+                      "GroupId": 161,
+                      "Id": 1444,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "13 inch / 325mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Type",
+                      "GroupId": 186,
+                      "Id": 1399,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Egress Easy Clean (Non Restricted)"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Handing",
+                      "GroupId": 192,
+                      "Id": 375,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Reversible"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Stack Height",
+                      "GroupId": 272,
+                      "Id": 1338,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "13mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Weight",
+                      "GroupId": 273,
+                      "Id": 1363,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "18kg"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Top Hung Or Side Hung",
+                      "GroupId": 271,
+                      "Id": 1335,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "Side Hung"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Opening Angle",
+                      "GroupId": 274,
+                      "Id": 1390,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "90 degrees"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Window Material",
+                      "GroupId": 265,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "UPVC"
+                    }
+                  ]
+                },
+                "File1": "",
+                "File2": "",
+                "File3": "",
+                "File4": "",
+                "File5": "",
+                "File6": "",
+                "File7": "",
+                "File8": "",
+                "FreePostage": false,
+                "Handing": "",
+                "Id": 4675,
+                "Image1": "/0/2/023438_1.jpg",
+                "Image2": "/0/2/023438_TECH.jpg",
+                "Image3": "/0/2/023438_3.jpg",
+                "Image4": "/0/2/023438_20.jpg",
+                "Image5": "",
+                "Image6": "",
+                "Image7": "",
+                "Image8": "",
+                "IsVoucher": false,
+                "Keywords": "",
+                "Language": "EN",
+                "Manufacturer": "Mila",
+                "MetaDescription": 23438,
+                "MetaTitle": "Mila Egress Easy Clean Friction Stay",
+                "MiscFlag1": false,
+                "MiscFlag2": false,
+                "MiscFlag3": false,
+                "MiscFlag4": false,
+                "MiscText1": "",
+                "MiscText2": "",
+                "MiscText3": "",
+                "MiscText4": "",
+                "MiscText5": "",
+                "MiscText6": "",
+                "MiscText7": "",
+                "MiscText8": "",
+                "Name": "Mila Egress Easy Clean Friction Stay",
+                "PageTitle": 23438,
+                "Priority": 0,
+                "SellCount": 0,
+                "Sort": 0,
+                "Status": "OK",
+                "Text1": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "Text2": {
+                  "__cdata": "<ul><li>Available in a variety of sizes. Please refer to the table below</li><li>A friction stay that allows for maximum opening for both emergency egress and ease of cleaning</li><li>Manufactured in Ferritic Stainless Steel</li><li>Tested to 20,000 open and close cycles</li><li>Supplied in pairs</li></ul>"
+                },
+                "Text3": "",
+                "Text4": "",
+                "TextDateAdded": "0001-01-01T00:00:00",
+                "Updated": true,
+                "UpdatedDate": "2023-02-25T03:43:21"
+              },
+              "ProductVariation": {
+                "Active": true,
+                "BestSellerOverride": false,
+                "ChangeFreq": 0,
+                "CombinationCode": "",
+                "Complete": false,
+                "DateAdded": "2018-07-13T01:35:18",
+                "DateEnd": "0001-01-01T00:00:00",
+                "DateExpected": "0001-01-01T00:00:00",
+                "DatePurchase": "0001-01-01T00:00:00",
+                "DateRelease": "0001-01-01T00:00:00",
+                "DateShip": "0001-01-01T00:00:00",
+                "DateStart": "0001-01-01T00:00:00",
+                "Description": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "DescriptionFile1": "",
+                "DescriptionFile2": "",
+                "DescriptionFlag1": false,
+                "DescriptionFlag2": false,
+                "DescriptionFlag3": false,
+                "DescriptionFlag4": false,
+                "DescriptionImage1": "",
+                "DescriptionImage2": "",
+                "DescriptionText1": "",
+                "DescriptionText2": "",
+                "DescriptionText3": "",
+                "DescriptionText4": "",
+                "DescriptionText5": "",
+                "DescriptionText6": "",
+                "DescriptionText7": "",
+                "DescriptionText8": "",
+                "DownloadExpiresAfterDays": 0,
+                "DownloadTimes": 0,
+                "EAN": 9985783863067,
+                "Featured": false,
+                "Features": {
+                  "APIFeatureData": [
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Manufacturer",
+                      "GroupId": 83,
+                      "Id": 130,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Mila"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Length",
+                      "GroupId": 161,
+                      "Id": 1444,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "13 inch / 325mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Type",
+                      "GroupId": 186,
+                      "Id": 1399,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Egress Easy Clean (Non Restricted)"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Handing",
+                      "GroupId": 192,
+                      "Id": 375,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Reversible"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Stack Height",
+                      "GroupId": 272,
+                      "Id": 1338,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "13mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Weight",
+                      "GroupId": 273,
+                      "Id": 1363,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "18kg"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Top Hung Or Side Hung",
+                      "GroupId": 271,
+                      "Id": 1335,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "Side Hung"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Opening Angle",
+                      "GroupId": 274,
+                      "Id": 1390,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "90 degrees"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Window Material",
+                      "GroupId": 265,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "UPVC"
+                    }
+                  ]
+                },
+                "File1": "",
+                "File2": "",
+                "File3": "",
+                "File4": "",
+                "File5": "",
+                "File6": "",
+                "File7": "",
+                "File8": "",
+                "Format": "N/A",
+                "FreeGift": false,
+                "FreeGiftPoints": 0,
+                "Genre": "",
+                "ISBN": "",
+                "Id": 4675,
+                "Image1": "/0/2/023438_1.jpg",
+                "Image2": "/0/2/023438_TECH.jpg",
+                "Image3": "/0/2/023438_3.jpg",
+                "Image4": "/0/2/023438_20.jpg",
+                "Image5": "",
+                "Image6": "",
+                "Image7": "",
+                "Image8": "",
+                "InDevelopment": false,
+                "InStockFlag": true,
+                "IsDefault": false,
+                "ItemId": 26972,
+                "JAN": "",
+                "KitOnly": false,
+                "KitSplit": false,
+                "Label": "",
+                "Language": "EN",
+                "LineGroupMaster": false,
+                "LoyaltyPoints": 0,
+                "ManualVATExempt": false,
+                "ManufacturerModel": "",
+                "MaxOrderQty": 10000,
+                "MetaDescription": 23438,
+                "MetaKeywords": "",
+                "MetaTitle": "Mila Egress Easy Clean Friction Stay",
+                "MinOrderQty": 1,
+                "MiscFile": "",
+                "MiscFlag1": false,
+                "MiscFlag2": false,
+                "MiscFlag3": false,
+                "MiscFlag4": false,
+                "MiscText1": "",
+                "MiscText2": "",
+                "MiscText3": "",
+                "MiscText4": "",
+                "MiscText5": "",
+                "MiscText6": "",
+                "MiscText7": "",
+                "MiscText8": "",
+                "Name": "Mila Egress Easy Clean Friction Stay",
+                "NewProductOverride": false,
+                "NumOfPages": 0,
+                "PackSize": 0,
+                "PageTitle": 23438,
+                "PreOrder": false,
+                "PriceBreakGroupCode": 4675,
+                "PriceBreaks": "",
+                "Prices": {
+                  "APIPriceData": {
+                    "AmountGross": 9.402,
+                    "AmountNet": 7.835,
+                    "AmountVat": 1.567,
+                    "CurrencyCodeISO2": "GB",
+                    "CurrencyCodeISO3": "GBP",
+                    "PriceType": "Default",
+                    "QuantityMin": 1,
+                    "RRPGross": 18.804,
+                    "RRPNet": 15.67,
+                    "RRPVat": 3.134,
+                    "StockCode": 23438,
+                    "VariationId": 4675
+                  }
+                },
+                "Priority": 0,
+                "ProductDiscountGroup": "MIL",
+                "ProductOfTheDay": false,
+                "Rating": "",
+                "ReorderPeriod": 0,
+                "ReviewRating": 0,
+                "Royalty": 0,
+                "RoyaltyToPay": false,
+                "SellCount": 0,
+                "SignedOff": false,
+                "Sort": 0,
+                "Status": "OK",
+                "StockCode": 23438,
+                "StockExpectedDate": "0001-01-01T00:00:00",
+                "StockLevel": 86,
+                "Supplier": "Default",
+                "SupplierDirectFulfillment": false,
+                "SupplierOrderCode": "MIL",
+                "UPC": "",
+                "Updated": true,
+                "UpdatedDate": "2023-02-25T03:43:21",
+                "Volume": 0,
+                "Weight": 0.49,
+                "X": 0.3,
+                "XForNN": 0,
+                "XForNX": 0,
+                "Y": 0,
+                "Z": 0,
+                "CategoryIds": {
+                  "int": [
+                    193,
+                    1018,
+                    1276,
+                    1392
+                  ]
+                },
+                "CategoryNames": {
+                  "string": [
+                    "Friction Stays &amp; Hinges",
+                    "Mila",
+                    "Egress Friction Stays",
+                    "Black Friday Sale"
+                  ]
+                },
+                "CategoryTrees": {
+                  "ArrayOfKeyValuePairOfintstring": [
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 193,
+                          "value": "Friction Stays &amp; Hinges"
+                        },
+                        {
+                          "key": 191,
+                          "value": "Window Hardware"
+                        },
+                        {
+                          "key": 52,
+                          "value": "Multipoint &amp; UPVC"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1134,
+                          "value": "Brands"
+                        },
+                        {
+                          "key": 1018,
+                          "value": "Mila"
+                        },
+                        {
+                          "key": 593,
+                          "value": "Manufacturer"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1276,
+                          "value": "Egress Friction Stays"
+                        },
+                        {
+                          "key": 1272,
+                          "value": "Escape"
+                        },
+                        {
+                          "key": 1270,
+                          "value": "Fire Rated &amp; Escape"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1392,
+                          "value": "Black Friday Sale"
+                        },
+                        {
+                          "key": 1391,
+                          "value": "Black Friday"
+                        },
+                        {
+                          "key": 592,
+                          "value": "Special Offers"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              "Status": "OK"
+            },
+            {
+              "ProductItem": {
+                "Active": true,
+                "BestSellerOverride": false,
+                "CanPreBook": false,
+                "CategoryIds": {
+                  "int": [
+                    193,
+                    1018,
+                    1276,
+                    1392
+                  ]
+                },
+                "CategoryNames": {
+                  "string": [
+                    "Friction Stays &amp; Hinges",
+                    "Mila",
+                    "Egress Friction Stays",
+                    "Black Friday Sale"
+                  ]
+                },
+                "CategoryTrees": {
+                  "ArrayOfKeyValuePairOfintstring": [
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 193,
+                          "value": "Friction Stays &amp; Hinges"
+                        },
+                        {
+                          "key": 191,
+                          "value": "Window Hardware"
+                        },
+                        {
+                          "key": 52,
+                          "value": "Multipoint &amp; UPVC"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1134,
+                          "value": "Brands"
+                        },
+                        {
+                          "key": 1018,
+                          "value": "Mila"
+                        },
+                        {
+                          "key": 593,
+                          "value": "Manufacturer"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1276,
+                          "value": "Egress Friction Stays"
+                        },
+                        {
+                          "key": 1272,
+                          "value": "Escape"
+                        },
+                        {
+                          "key": 1270,
+                          "value": "Fire Rated &amp; Escape"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1392,
+                          "value": "Black Friday Sale"
+                        },
+                        {
+                          "key": 1391,
+                          "value": "Black Friday"
+                        },
+                        {
+                          "key": 592,
+                          "value": "Special Offers"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "ChangeFreq": 0,
+                "Description": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "DescriptionFile1": "",
+                "DescriptionFile2": "",
+                "DescriptionFlag1": false,
+                "DescriptionFlag2": false,
+                "DescriptionFlag3": false,
+                "DescriptionFlag4": false,
+                "DescriptionImage1": "",
+                "DescriptionImage2": "",
+                "DescriptionText1": "",
+                "DescriptionText2": "",
+                "DescriptionText3": "",
+                "DescriptionText4": "",
+                "DescriptionText5": "",
+                "DescriptionText6": "",
+                "DescriptionText7": "",
+                "DescriptionText8": "",
+                "Featured": false,
+                "Features": {
+                  "APIFeatureData": [
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Manufacturer",
+                      "GroupId": 83,
+                      "Id": 130,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Mila"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Length",
+                      "GroupId": 161,
+                      "Id": 2814655,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "17 inch / 431mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Type",
+                      "GroupId": 186,
+                      "Id": 1399,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Egress Easy Clean (Non Restricted)"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Handing",
+                      "GroupId": 192,
+                      "Id": 375,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Reversible"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Stack Height",
+                      "GroupId": 272,
+                      "Id": 1338,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "13mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Weight",
+                      "GroupId": 273,
+                      "Id": 1365,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "21kg"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Top Hung Or Side Hung",
+                      "GroupId": 271,
+                      "Id": 1335,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "Side Hung"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Opening Angle",
+                      "GroupId": 274,
+                      "Id": 1390,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "90 degrees"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Window Material",
+                      "GroupId": 265,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "UPVC"
+                    }
+                  ]
+                },
+                "File1": "",
+                "File2": "",
+                "File3": "",
+                "File4": "",
+                "File5": "",
+                "File6": "",
+                "File7": "",
+                "File8": "",
+                "FreePostage": false,
+                "Handing": "",
+                "Id": 4676,
+                "Image1": "",
+                "Image2": "",
+                "Image3": "",
+                "Image4": "",
+                "Image5": "",
+                "Image6": "",
+                "Image7": "",
+                "Image8": "",
+                "IsVoucher": false,
+                "Keywords": "",
+                "Language": "EN",
+                "Manufacturer": "Mila",
+                "MetaDescription": 23440,
+                "MetaTitle": "Mila Egress Easy Clean Friction Stay",
+                "MiscFlag1": false,
+                "MiscFlag2": false,
+                "MiscFlag3": false,
+                "MiscFlag4": false,
+                "MiscText1": "",
+                "MiscText2": "",
+                "MiscText3": "",
+                "MiscText4": "",
+                "MiscText5": "",
+                "MiscText6": "",
+                "MiscText7": "",
+                "MiscText8": "",
+                "Name": "Mila Egress Easy Clean Friction Stay",
+                "PageTitle": 23440,
+                "Priority": 0,
+                "SellCount": 0,
+                "Sort": 0,
+                "Status": "OK",
+                "Text1": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "Text2": {
+                  "__cdata": "<ul><li>Available in a variety of sizes. Please refer to the table below</li><li>A friction stay that allows for maximum opening for both emergency egress and ease of cleaning</li><li>Manufactured in Ferritic Stainless Steel</li><li>Tested to 20,000 open and close cycles</li><li>Supplied in pairs</li></ul>"
+                },
+                "Text3": "",
+                "Text4": "",
+                "TextDateAdded": "0001-01-01T00:00:00",
+                "Updated": true,
+                "UpdatedDate": "2023-02-25T09:03:00"
+              },
+              "ProductVariation": {
+                "Active": true,
+                "BestSellerOverride": false,
+                "ChangeFreq": 0,
+                "CombinationCode": "",
+                "Complete": false,
+                "DateAdded": "2018-07-13T01:35:18",
+                "DateEnd": "0001-01-01T00:00:00",
+                "DateExpected": "0001-01-01T00:00:00",
+                "DatePurchase": "0001-01-01T00:00:00",
+                "DateRelease": "0001-01-01T00:00:00",
+                "DateShip": "0001-01-01T00:00:00",
+                "DateStart": "0001-01-01T00:00:00",
+                "Description": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "DescriptionFile1": "",
+                "DescriptionFile2": "",
+                "DescriptionFlag1": false,
+                "DescriptionFlag2": false,
+                "DescriptionFlag3": false,
+                "DescriptionFlag4": false,
+                "DescriptionImage1": "",
+                "DescriptionImage2": "",
+                "DescriptionText1": "",
+                "DescriptionText2": "",
+                "DescriptionText3": "",
+                "DescriptionText4": "",
+                "DescriptionText5": "",
+                "DescriptionText6": "",
+                "DescriptionText7": "",
+                "DescriptionText8": "",
+                "DownloadExpiresAfterDays": 0,
+                "DownloadTimes": 0,
+                "EAN": 9950800818204,
+                "Featured": false,
+                "Features": {
+                  "APIFeatureData": [
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Manufacturer",
+                      "GroupId": 83,
+                      "Id": 130,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Mila"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Length",
+                      "GroupId": 161,
+                      "Id": 2814655,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "17 inch / 431mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Type",
+                      "GroupId": 186,
+                      "Id": 1399,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Egress Easy Clean (Non Restricted)"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Handing",
+                      "GroupId": 192,
+                      "Id": 375,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Reversible"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Stack Height",
+                      "GroupId": 272,
+                      "Id": 1338,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "13mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Weight",
+                      "GroupId": 273,
+                      "Id": 1365,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "21kg"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Top Hung Or Side Hung",
+                      "GroupId": 271,
+                      "Id": 1335,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "Side Hung"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Opening Angle",
+                      "GroupId": 274,
+                      "Id": 1390,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "90 degrees"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Window Material",
+                      "GroupId": 265,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "UPVC"
+                    }
+                  ]
+                },
+                "File1": "",
+                "File2": "",
+                "File3": "",
+                "File4": "",
+                "File5": "",
+                "File6": "",
+                "File7": "",
+                "File8": "",
+                "Format": "N/A",
+                "FreeGift": false,
+                "FreeGiftPoints": 0,
+                "Genre": "",
+                "ISBN": "",
+                "Id": 4676,
+                "Image1": "",
+                "Image2": "",
+                "Image3": "",
+                "Image4": "",
+                "Image5": "",
+                "Image6": "",
+                "Image7": "",
+                "Image8": "",
+                "InDevelopment": false,
+                "InStockFlag": false,
+                "IsDefault": false,
+                "ItemId": 26972,
+                "JAN": "",
+                "KitOnly": false,
+                "KitSplit": false,
+                "Label": "",
+                "Language": "EN",
+                "LineGroupMaster": false,
+                "LoyaltyPoints": 0,
+                "ManualVATExempt": false,
+                "ManufacturerModel": "",
+                "MaxOrderQty": 10000,
+                "MetaDescription": 23440,
+                "MetaKeywords": "",
+                "MetaTitle": "Mila Egress Easy Clean Friction Stay",
+                "MinOrderQty": 1,
+                "MiscFile": "",
+                "MiscFlag1": false,
+                "MiscFlag2": false,
+                "MiscFlag3": false,
+                "MiscFlag4": false,
+                "MiscText1": "",
+                "MiscText2": "",
+                "MiscText3": "",
+                "MiscText4": "",
+                "MiscText5": "",
+                "MiscText6": "",
+                "MiscText7": "",
+                "MiscText8": "",
+                "Name": "Mila Egress Easy Clean Friction Stay",
+                "NewProductOverride": false,
+                "NumOfPages": 0,
+                "PackSize": 0,
+                "PageTitle": 23440,
+                "PreOrder": false,
+                "PriceBreakGroupCode": 4676,
+                "PriceBreaks": "",
+                "Prices": {
+                  "APIPriceData": {
+                    "AmountGross": 12.6,
+                    "AmountNet": 10.5,
+                    "AmountVat": 2.1,
+                    "CurrencyCodeISO2": "GB",
+                    "CurrencyCodeISO3": "GBP",
+                    "PriceType": "Default",
+                    "QuantityMin": 1,
+                    "RRPGross": 25.2,
+                    "RRPNet": 21,
+                    "RRPVat": 4.2,
+                    "StockCode": 23440,
+                    "VariationId": 4676
+                  }
+                },
+                "Priority": 0,
+                "ProductDiscountGroup": "MIL",
+                "ProductOfTheDay": false,
+                "Rating": "",
+                "ReorderPeriod": 0,
+                "ReviewRating": 0,
+                "Royalty": 0,
+                "RoyaltyToPay": false,
+                "SellCount": 0,
+                "SignedOff": false,
+                "Sort": 0,
+                "Status": "OK",
+                "StockCode": 23440,
+                "StockExpectedDate": "0001-01-01T00:00:00",
+                "StockLevel": -3,
+                "Supplier": "Default",
+                "SupplierDirectFulfillment": false,
+                "SupplierOrderCode": "MIL",
+                "UPC": "",
+                "Updated": true,
+                "UpdatedDate": "2023-02-25T09:03:00",
+                "Volume": 0,
+                "Weight": 0.67,
+                "X": 0.5,
+                "XForNN": 0,
+                "XForNX": 0,
+                "Y": 0,
+                "Z": 0,
+                "CategoryIds": {
+                  "int": [
+                    193,
+                    1018,
+                    1276,
+                    1392
+                  ]
+                },
+                "CategoryNames": {
+                  "string": [
+                    "Friction Stays &amp; Hinges",
+                    "Mila",
+                    "Egress Friction Stays",
+                    "Black Friday Sale"
+                  ]
+                },
+                "CategoryTrees": {
+                  "ArrayOfKeyValuePairOfintstring": [
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 193,
+                          "value": "Friction Stays &amp; Hinges"
+                        },
+                        {
+                          "key": 191,
+                          "value": "Window Hardware"
+                        },
+                        {
+                          "key": 52,
+                          "value": "Multipoint &amp; UPVC"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1134,
+                          "value": "Brands"
+                        },
+                        {
+                          "key": 1018,
+                          "value": "Mila"
+                        },
+                        {
+                          "key": 593,
+                          "value": "Manufacturer"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1276,
+                          "value": "Egress Friction Stays"
+                        },
+                        {
+                          "key": 1272,
+                          "value": "Escape"
+                        },
+                        {
+                          "key": 1270,
+                          "value": "Fire Rated &amp; Escape"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1392,
+                          "value": "Black Friday Sale"
+                        },
+                        {
+                          "key": 1391,
+                          "value": "Black Friday"
+                        },
+                        {
+                          "key": 592,
+                          "value": "Special Offers"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              "Status": "OK"
+            },
+            {
+              "ProductItem": {
+                "Active": true,
+                "BestSellerOverride": false,
+                "CanPreBook": false,
+                "CategoryIds": {
+                  "int": [
+                    193,
+                    1018,
+                    1276,
+                    1392
+                  ]
+                },
+                "CategoryNames": {
+                  "string": [
+                    "Friction Stays &amp; Hinges",
+                    "Mila",
+                    "Egress Friction Stays",
+                    "Black Friday Sale"
+                  ]
+                },
+                "CategoryTrees": {
+                  "ArrayOfKeyValuePairOfintstring": [
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 193,
+                          "value": "Friction Stays &amp; Hinges"
+                        },
+                        {
+                          "key": 191,
+                          "value": "Window Hardware"
+                        },
+                        {
+                          "key": 52,
+                          "value": "Multipoint &amp; UPVC"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1134,
+                          "value": "Brands"
+                        },
+                        {
+                          "key": 1018,
+                          "value": "Mila"
+                        },
+                        {
+                          "key": 593,
+                          "value": "Manufacturer"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1276,
+                          "value": "Egress Friction Stays"
+                        },
+                        {
+                          "key": 1272,
+                          "value": "Escape"
+                        },
+                        {
+                          "key": 1270,
+                          "value": "Fire Rated &amp; Escape"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1392,
+                          "value": "Black Friday Sale"
+                        },
+                        {
+                          "key": 1391,
+                          "value": "Black Friday"
+                        },
+                        {
+                          "key": 592,
+                          "value": "Special Offers"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "ChangeFreq": 0,
+                "Description": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "DescriptionFile1": "",
+                "DescriptionFile2": "",
+                "DescriptionFlag1": false,
+                "DescriptionFlag2": false,
+                "DescriptionFlag3": false,
+                "DescriptionFlag4": false,
+                "DescriptionImage1": "",
+                "DescriptionImage2": "",
+                "DescriptionText1": "",
+                "DescriptionText2": "",
+                "DescriptionText3": "",
+                "DescriptionText4": "",
+                "DescriptionText5": "",
+                "DescriptionText6": "",
+                "DescriptionText7": "",
+                "DescriptionText8": "",
+                "Featured": false,
+                "Features": {
+                  "APIFeatureData": [
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Manufacturer",
+                      "GroupId": 83,
+                      "Id": 130,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Mila"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Length",
+                      "GroupId": 161,
+                      "Id": 1444,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "13 inch / 325mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Type",
+                      "GroupId": 186,
+                      "Id": 1399,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Egress Easy Clean (Non Restricted)"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Handing",
+                      "GroupId": 192,
+                      "Id": 375,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Reversible"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Stack Height",
+                      "GroupId": 272,
+                      "Id": 1340,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "17mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Weight",
+                      "GroupId": 273,
+                      "Id": 1363,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "18kg"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Top Hung Or Side Hung",
+                      "GroupId": 271,
+                      "Id": 1335,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "Side Hung"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Opening Angle",
+                      "GroupId": 274,
+                      "Id": 1390,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "90 degrees"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Window Material",
+                      "GroupId": 265,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "UPVC"
+                    }
+                  ]
+                },
+                "File1": "",
+                "File2": "",
+                "File3": "",
+                "File4": "",
+                "File5": "",
+                "File6": "",
+                "File7": "",
+                "File8": "",
+                "FreePostage": false,
+                "Handing": "",
+                "Id": 4677,
+                "Image1": "",
+                "Image2": "",
+                "Image3": "",
+                "Image4": "",
+                "Image5": "",
+                "Image6": "",
+                "Image7": "",
+                "Image8": "",
+                "IsVoucher": false,
+                "Keywords": "",
+                "Language": "EN",
+                "Manufacturer": "Mila",
+                "MetaDescription": 23488,
+                "MetaTitle": "Mila Egress Easy Clean Friction Stay",
+                "MiscFlag1": false,
+                "MiscFlag2": false,
+                "MiscFlag3": false,
+                "MiscFlag4": false,
+                "MiscText1": "",
+                "MiscText2": "",
+                "MiscText3": "",
+                "MiscText4": "",
+                "MiscText5": "",
+                "MiscText6": "",
+                "MiscText7": "",
+                "MiscText8": "",
+                "Name": "Mila Egress Easy Clean Friction Stay",
+                "PageTitle": 23488,
+                "Priority": 0,
+                "SellCount": 0,
+                "Sort": 0,
+                "Status": "OK",
+                "Text1": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "Text2": {
+                  "__cdata": "<ul><li>Available in a variety of sizes. Please refer to the table below</li><li>A friction stay that allows for maximum opening for both emergency egress and ease of cleaning</li><li>Manufactured in Ferritic Stainless Steel</li><li>Tested to 20,000 open and close cycles</li><li>Supplied in pairs</li></ul>"
+                },
+                "Text3": "",
+                "Text4": "",
+                "TextDateAdded": "0001-01-01T00:00:00",
+                "Updated": true,
+                "UpdatedDate": "2023-02-25T09:03:00"
+              },
+              "ProductVariation": {
+                "Active": true,
+                "BestSellerOverride": false,
+                "ChangeFreq": 0,
+                "CombinationCode": "",
+                "Complete": false,
+                "DateAdded": "2018-07-13T01:35:18",
+                "DateEnd": "0001-01-01T00:00:00",
+                "DateExpected": "0001-01-01T00:00:00",
+                "DatePurchase": "0001-01-01T00:00:00",
+                "DateRelease": "0001-01-01T00:00:00",
+                "DateShip": "0001-01-01T00:00:00",
+                "DateStart": "0001-01-01T00:00:00",
+                "Description": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "DescriptionFile1": "",
+                "DescriptionFile2": "",
+                "DescriptionFlag1": false,
+                "DescriptionFlag2": false,
+                "DescriptionFlag3": false,
+                "DescriptionFlag4": false,
+                "DescriptionImage1": "",
+                "DescriptionImage2": "",
+                "DescriptionText1": "",
+                "DescriptionText2": "",
+                "DescriptionText3": "",
+                "DescriptionText4": "",
+                "DescriptionText5": "",
+                "DescriptionText6": "",
+                "DescriptionText7": "",
+                "DescriptionText8": "",
+                "DownloadExpiresAfterDays": 0,
+                "DownloadTimes": 0,
+                "EAN": 9917389357090,
+                "Featured": false,
+                "Features": {
+                  "APIFeatureData": [
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Manufacturer",
+                      "GroupId": 83,
+                      "Id": 130,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Mila"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Length",
+                      "GroupId": 161,
+                      "Id": 1444,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "13 inch / 325mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Type",
+                      "GroupId": 186,
+                      "Id": 1399,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Egress Easy Clean (Non Restricted)"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Handing",
+                      "GroupId": 192,
+                      "Id": 375,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Reversible"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Stack Height",
+                      "GroupId": 272,
+                      "Id": 1340,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "17mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Weight",
+                      "GroupId": 273,
+                      "Id": 1363,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "18kg"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Top Hung Or Side Hung",
+                      "GroupId": 271,
+                      "Id": 1335,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "Side Hung"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Opening Angle",
+                      "GroupId": 274,
+                      "Id": 1390,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "90 degrees"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Window Material",
+                      "GroupId": 265,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "UPVC"
+                    }
+                  ]
+                },
+                "File1": "",
+                "File2": "",
+                "File3": "",
+                "File4": "",
+                "File5": "",
+                "File6": "",
+                "File7": "",
+                "File8": "",
+                "Format": "N/A",
+                "FreeGift": false,
+                "FreeGiftPoints": 0,
+                "Genre": "",
+                "ISBN": "",
+                "Id": 4677,
+                "Image1": "",
+                "Image2": "",
+                "Image3": "",
+                "Image4": "",
+                "Image5": "",
+                "Image6": "",
+                "Image7": "",
+                "Image8": "",
+                "InDevelopment": false,
+                "InStockFlag": true,
+                "IsDefault": false,
+                "ItemId": 26972,
+                "JAN": "",
+                "KitOnly": false,
+                "KitSplit": false,
+                "Label": "",
+                "Language": "EN",
+                "LineGroupMaster": false,
+                "LoyaltyPoints": 0,
+                "ManualVATExempt": false,
+                "ManufacturerModel": "",
+                "MaxOrderQty": 10000,
+                "MetaDescription": 23488,
+                "MetaKeywords": "",
+                "MetaTitle": "Mila Egress Easy Clean Friction Stay",
+                "MinOrderQty": 1,
+                "MiscFile": "",
+                "MiscFlag1": false,
+                "MiscFlag2": false,
+                "MiscFlag3": false,
+                "MiscFlag4": false,
+                "MiscText1": "",
+                "MiscText2": "",
+                "MiscText3": "",
+                "MiscText4": "",
+                "MiscText5": "",
+                "MiscText6": "",
+                "MiscText7": "",
+                "MiscText8": "",
+                "Name": "Mila Egress Easy Clean Friction Stay",
+                "NewProductOverride": false,
+                "NumOfPages": 0,
+                "PackSize": 0,
+                "PageTitle": 23488,
+                "PreOrder": false,
+                "PriceBreakGroupCode": 4677,
+                "PriceBreaks": "",
+                "Prices": {
+                  "APIPriceData": {
+                    "AmountGross": 9.642,
+                    "AmountNet": 8.035,
+                    "AmountVat": 1.607,
+                    "CurrencyCodeISO2": "GB",
+                    "CurrencyCodeISO3": "GBP",
+                    "PriceType": "Default",
+                    "QuantityMin": 1,
+                    "RRPGross": 19.284,
+                    "RRPNet": 16.07,
+                    "RRPVat": 3.214,
+                    "StockCode": 23488,
+                    "VariationId": 4677
+                  }
+                },
+                "Priority": 0,
+                "ProductDiscountGroup": "MIL",
+                "ProductOfTheDay": false,
+                "Rating": "",
+                "ReorderPeriod": 0,
+                "ReviewRating": 0,
+                "Royalty": 0,
+                "RoyaltyToPay": false,
+                "SellCount": 0,
+                "SignedOff": false,
+                "Sort": 0,
+                "Status": "OK",
+                "StockCode": 23488,
+                "StockExpectedDate": "0001-01-01T00:00:00",
+                "StockLevel": 54,
+                "Supplier": "Default",
+                "SupplierDirectFulfillment": false,
+                "SupplierOrderCode": "MIL",
+                "UPC": "",
+                "Updated": true,
+                "UpdatedDate": "2023-02-25T09:03:00",
+                "Volume": 0,
+                "Weight": 0.5,
+                "X": 0.3,
+                "XForNN": 0,
+                "XForNX": 0,
+                "Y": 0,
+                "Z": 0,
+                "CategoryIds": {
+                  "int": [
+                    193,
+                    1018,
+                    1276,
+                    1392
+                  ]
+                },
+                "CategoryNames": {
+                  "string": [
+                    "Friction Stays &amp; Hinges",
+                    "Mila",
+                    "Egress Friction Stays",
+                    "Black Friday Sale"
+                  ]
+                },
+                "CategoryTrees": {
+                  "ArrayOfKeyValuePairOfintstring": [
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 193,
+                          "value": "Friction Stays &amp; Hinges"
+                        },
+                        {
+                          "key": 191,
+                          "value": "Window Hardware"
+                        },
+                        {
+                          "key": 52,
+                          "value": "Multipoint &amp; UPVC"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1134,
+                          "value": "Brands"
+                        },
+                        {
+                          "key": 1018,
+                          "value": "Mila"
+                        },
+                        {
+                          "key": 593,
+                          "value": "Manufacturer"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1276,
+                          "value": "Egress Friction Stays"
+                        },
+                        {
+                          "key": 1272,
+                          "value": "Escape"
+                        },
+                        {
+                          "key": 1270,
+                          "value": "Fire Rated &amp; Escape"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1392,
+                          "value": "Black Friday Sale"
+                        },
+                        {
+                          "key": 1391,
+                          "value": "Black Friday"
+                        },
+                        {
+                          "key": 592,
+                          "value": "Special Offers"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              "Status": "OK"
+            },
+            {
+              "ProductItem": {
+                "Active": true,
+                "BestSellerOverride": false,
+                "CanPreBook": false,
+                "CategoryIds": {
+                  "int": [
+                    193,
+                    1018,
+                    1276,
+                    1392
+                  ]
+                },
+                "CategoryNames": {
+                  "string": [
+                    "Friction Stays &amp; Hinges",
+                    "Mila",
+                    "Egress Friction Stays",
+                    "Black Friday Sale"
+                  ]
+                },
+                "CategoryTrees": {
+                  "ArrayOfKeyValuePairOfintstring": [
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 193,
+                          "value": "Friction Stays &amp; Hinges"
+                        },
+                        {
+                          "key": 191,
+                          "value": "Window Hardware"
+                        },
+                        {
+                          "key": 52,
+                          "value": "Multipoint &amp; UPVC"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1134,
+                          "value": "Brands"
+                        },
+                        {
+                          "key": 1018,
+                          "value": "Mila"
+                        },
+                        {
+                          "key": 593,
+                          "value": "Manufacturer"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1276,
+                          "value": "Egress Friction Stays"
+                        },
+                        {
+                          "key": 1272,
+                          "value": "Escape"
+                        },
+                        {
+                          "key": 1270,
+                          "value": "Fire Rated &amp; Escape"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1392,
+                          "value": "Black Friday Sale"
+                        },
+                        {
+                          "key": 1391,
+                          "value": "Black Friday"
+                        },
+                        {
+                          "key": 592,
+                          "value": "Special Offers"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "ChangeFreq": 0,
+                "Description": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "DescriptionFile1": "",
+                "DescriptionFile2": "",
+                "DescriptionFlag1": false,
+                "DescriptionFlag2": false,
+                "DescriptionFlag3": false,
+                "DescriptionFlag4": false,
+                "DescriptionImage1": "",
+                "DescriptionImage2": "",
+                "DescriptionText1": "",
+                "DescriptionText2": "",
+                "DescriptionText3": "",
+                "DescriptionText4": "",
+                "DescriptionText5": "",
+                "DescriptionText6": "",
+                "DescriptionText7": "",
+                "DescriptionText8": "",
+                "Featured": false,
+                "Features": {
+                  "APIFeatureData": [
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Manufacturer",
+                      "GroupId": 83,
+                      "Id": 130,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Mila"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Length",
+                      "GroupId": 161,
+                      "Id": 2814655,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "17 inch / 431mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Type",
+                      "GroupId": 186,
+                      "Id": 1399,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Egress Easy Clean (Non Restricted)"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Handing",
+                      "GroupId": 192,
+                      "Id": 375,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Reversible"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Stack Height",
+                      "GroupId": 272,
+                      "Id": 1340,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "17mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Weight",
+                      "GroupId": 273,
+                      "Id": 1365,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "21kg"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Top Hung Or Side Hung",
+                      "GroupId": 271,
+                      "Id": 1335,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "Side Hung"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Opening Angle",
+                      "GroupId": 274,
+                      "Id": 1390,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "90 degrees"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Window Material",
+                      "GroupId": 265,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "UPVC"
+                    }
+                  ]
+                },
+                "File1": "",
+                "File2": "",
+                "File3": "",
+                "File4": "",
+                "File5": "",
+                "File6": "",
+                "File7": "",
+                "File8": "",
+                "FreePostage": false,
+                "Handing": "",
+                "Id": 4678,
+                "Image1": "",
+                "Image2": "",
+                "Image3": "",
+                "Image4": "",
+                "Image5": "",
+                "Image6": "",
+                "Image7": "",
+                "Image8": "",
+                "IsVoucher": false,
+                "Keywords": "",
+                "Language": "EN",
+                "Manufacturer": "Mila",
+                "MetaDescription": 23490,
+                "MetaTitle": "Mila Egress Easy Clean Friction Stay",
+                "MiscFlag1": false,
+                "MiscFlag2": false,
+                "MiscFlag3": false,
+                "MiscFlag4": false,
+                "MiscText1": "",
+                "MiscText2": "",
+                "MiscText3": "",
+                "MiscText4": "",
+                "MiscText5": "",
+                "MiscText6": "",
+                "MiscText7": "",
+                "MiscText8": "",
+                "Name": "Mila Egress Easy Clean Friction Stay",
+                "PageTitle": 23490,
+                "Priority": 0,
+                "SellCount": 0,
+                "Sort": 0,
+                "Status": "OK",
+                "Text1": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "Text2": {
+                  "__cdata": "<ul><li>Available in a variety of sizes. Please refer to the table below</li><li>A friction stay that allows for maximum opening for both emergency egress and ease of cleaning</li><li>Manufactured in Ferritic Stainless Steel</li><li>Tested to 20,000 open and close cycles</li><li>Supplied in pairs</li></ul>"
+                },
+                "Text3": "",
+                "Text4": "",
+                "TextDateAdded": "0001-01-01T00:00:00",
+                "Updated": true,
+                "UpdatedDate": "2023-02-25T09:03:00"
+              },
+              "ProductVariation": {
+                "Active": true,
+                "BestSellerOverride": false,
+                "ChangeFreq": 0,
+                "CombinationCode": "",
+                "Complete": false,
+                "DateAdded": "2018-07-13T01:35:18",
+                "DateEnd": "0001-01-01T00:00:00",
+                "DateExpected": "0001-01-01T00:00:00",
+                "DatePurchase": "0001-01-01T00:00:00",
+                "DateRelease": "0001-01-01T00:00:00",
+                "DateShip": "0001-01-01T00:00:00",
+                "DateStart": "0001-01-01T00:00:00",
+                "Description": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "DescriptionFile1": "",
+                "DescriptionFile2": "",
+                "DescriptionFlag1": false,
+                "DescriptionFlag2": false,
+                "DescriptionFlag3": false,
+                "DescriptionFlag4": false,
+                "DescriptionImage1": "",
+                "DescriptionImage2": "",
+                "DescriptionText1": "",
+                "DescriptionText2": "",
+                "DescriptionText3": "",
+                "DescriptionText4": "",
+                "DescriptionText5": "",
+                "DescriptionText6": "",
+                "DescriptionText7": "",
+                "DescriptionText8": "",
+                "DownloadExpiresAfterDays": 0,
+                "DownloadTimes": 0,
+                "EAN": 9951455527544,
+                "Featured": false,
+                "Features": {
+                  "APIFeatureData": [
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Manufacturer",
+                      "GroupId": 83,
+                      "Id": 130,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Mila"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Length",
+                      "GroupId": 161,
+                      "Id": 2814655,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "17 inch / 431mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Type",
+                      "GroupId": 186,
+                      "Id": 1399,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Egress Easy Clean (Non Restricted)"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Handing",
+                      "GroupId": 192,
+                      "Id": 375,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Reversible"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Stack Height",
+                      "GroupId": 272,
+                      "Id": 1340,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "17mm"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Weight",
+                      "GroupId": 273,
+                      "Id": 1365,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "21kg"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Top Hung Or Side Hung",
+                      "GroupId": 271,
+                      "Id": 1335,
+                      "MiscText": "Table",
+                      "SortOrder": 1,
+                      "Value": "Side Hung"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Opening Angle",
+                      "GroupId": 274,
+                      "Id": 1390,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "90 degrees"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Window Material",
+                      "GroupId": 265,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "UPVC"
+                    }
+                  ]
+                },
+                "File1": "",
+                "File2": "",
+                "File3": "",
+                "File4": "",
+                "File5": "",
+                "File6": "",
+                "File7": "",
+                "File8": "",
+                "Format": "N/A",
+                "FreeGift": false,
+                "FreeGiftPoints": 0,
+                "Genre": "",
+                "ISBN": "",
+                "Id": 4678,
+                "Image1": "",
+                "Image2": "",
+                "Image3": "",
+                "Image4": "",
+                "Image5": "",
+                "Image6": "",
+                "Image7": "",
+                "Image8": "",
+                "InDevelopment": false,
+                "InStockFlag": true,
+                "IsDefault": false,
+                "ItemId": 26972,
+                "JAN": "",
+                "KitOnly": false,
+                "KitSplit": false,
+                "Label": "",
+                "Language": "EN",
+                "LineGroupMaster": false,
+                "LoyaltyPoints": 0,
+                "ManualVATExempt": false,
+                "ManufacturerModel": "",
+                "MaxOrderQty": 10000,
+                "MetaDescription": 23490,
+                "MetaKeywords": "",
+                "MetaTitle": "Mila Egress Easy Clean Friction Stay",
+                "MinOrderQty": 1,
+                "MiscFile": "",
+                "MiscFlag1": false,
+                "MiscFlag2": false,
+                "MiscFlag3": false,
+                "MiscFlag4": false,
+                "MiscText1": "",
+                "MiscText2": "",
+                "MiscText3": "",
+                "MiscText4": "",
+                "MiscText5": "",
+                "MiscText6": "",
+                "MiscText7": "",
+                "MiscText8": "",
+                "Name": "Mila Egress Easy Clean Friction Stay",
+                "NewProductOverride": false,
+                "NumOfPages": 0,
+                "PackSize": 0,
+                "PageTitle": 23490,
+                "PreOrder": false,
+                "PriceBreakGroupCode": 4678,
+                "PriceBreaks": "",
+                "Prices": {
+                  "APIPriceData": {
+                    "AmountGross": 11.352,
+                    "AmountNet": 9.46,
+                    "AmountVat": 1.892,
+                    "CurrencyCodeISO2": "GB",
+                    "CurrencyCodeISO3": "GBP",
+                    "PriceType": "Default",
+                    "QuantityMin": 1,
+                    "RRPGross": 22.704,
+                    "RRPNet": 18.92,
+                    "RRPVat": 3.784,
+                    "StockCode": 23490,
+                    "VariationId": 4678
+                  }
+                },
+                "Priority": 0,
+                "ProductDiscountGroup": "MIL",
+                "ProductOfTheDay": false,
+                "Rating": "",
+                "ReorderPeriod": 0,
+                "ReviewRating": 0,
+                "Royalty": 0,
+                "RoyaltyToPay": false,
+                "SellCount": 0,
+                "SignedOff": false,
+                "Sort": 0,
+                "Status": "OK",
+                "StockCode": 23490,
+                "StockExpectedDate": "0001-01-01T00:00:00",
+                "StockLevel": 2,
+                "Supplier": "Default",
+                "SupplierDirectFulfillment": false,
+                "SupplierOrderCode": "MIL",
+                "UPC": "",
+                "Updated": true,
+                "UpdatedDate": "2023-02-25T09:03:00",
+                "Volume": 0,
+                "Weight": 0.67,
+                "X": 0.5,
+                "XForNN": 0,
+                "XForNX": 0,
+                "Y": 0,
+                "Z": 0,
+                "CategoryIds": {
+                  "int": [
+                    193,
+                    1018,
+                    1276,
+                    1392
+                  ]
+                },
+                "CategoryNames": {
+                  "string": [
+                    "Friction Stays &amp; Hinges",
+                    "Mila",
+                    "Egress Friction Stays",
+                    "Black Friday Sale"
+                  ]
+                },
+                "CategoryTrees": {
+                  "ArrayOfKeyValuePairOfintstring": [
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 193,
+                          "value": "Friction Stays &amp; Hinges"
+                        },
+                        {
+                          "key": 191,
+                          "value": "Window Hardware"
+                        },
+                        {
+                          "key": 52,
+                          "value": "Multipoint &amp; UPVC"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1134,
+                          "value": "Brands"
+                        },
+                        {
+                          "key": 1018,
+                          "value": "Mila"
+                        },
+                        {
+                          "key": 593,
+                          "value": "Manufacturer"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1276,
+                          "value": "Egress Friction Stays"
+                        },
+                        {
+                          "key": 1272,
+                          "value": "Escape"
+                        },
+                        {
+                          "key": 1270,
+                          "value": "Fire Rated &amp; Escape"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1392,
+                          "value": "Black Friday Sale"
+                        },
+                        {
+                          "key": 1391,
+                          "value": "Black Friday"
+                        },
+                        {
+                          "key": 592,
+                          "value": "Special Offers"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              "Status": "OK"
+            },
+            {
+              "ProductItem": {
+                "Active": true,
+                "BestSellerOverride": false,
+                "CanPreBook": false,
+                "CategoryIds": {
+                  "int": [
+                    193,
+                    1018,
+                    1276,
+                    1392
+                  ]
+                },
+                "CategoryNames": {
+                  "string": [
+                    "Friction Stays &amp; Hinges",
+                    "Mila",
+                    "Egress Friction Stays",
+                    "Black Friday Sale"
+                  ]
+                },
+                "CategoryTrees": {
+                  "ArrayOfKeyValuePairOfintstring": [
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 193,
+                          "value": "Friction Stays &amp; Hinges"
+                        },
+                        {
+                          "key": 191,
+                          "value": "Window Hardware"
+                        },
+                        {
+                          "key": 52,
+                          "value": "Multipoint &amp; UPVC"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1134,
+                          "value": "Brands"
+                        },
+                        {
+                          "key": 1018,
+                          "value": "Mila"
+                        },
+                        {
+                          "key": 593,
+                          "value": "Manufacturer"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1276,
+                          "value": "Egress Friction Stays"
+                        },
+                        {
+                          "key": 1272,
+                          "value": "Escape"
+                        },
+                        {
+                          "key": 1270,
+                          "value": "Fire Rated &amp; Escape"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1392,
+                          "value": "Black Friday Sale"
+                        },
+                        {
+                          "key": 1391,
+                          "value": "Black Friday"
+                        },
+                        {
+                          "key": 592,
+                          "value": "Special Offers"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "ChangeFreq": 0,
+                "Description": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "DescriptionFile1": "",
+                "DescriptionFile2": "",
+                "DescriptionFlag1": false,
+                "DescriptionFlag2": false,
+                "DescriptionFlag3": false,
+                "DescriptionFlag4": false,
+                "DescriptionImage1": "",
+                "DescriptionImage2": "",
+                "DescriptionText1": "",
+                "DescriptionText2": "",
+                "DescriptionText3": "",
+                "DescriptionText4": "",
+                "DescriptionText5": "",
+                "DescriptionText6": "",
+                "DescriptionText7": "",
+                "DescriptionText8": "",
+                "Featured": false,
+                "Features": {
+                  "APIFeatureData": [
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Manufacturer",
+                      "GroupId": 83,
+                      "Id": 130,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Mila"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Length",
+                      "GroupId": 161,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Type",
+                      "GroupId": 186,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Handing",
+                      "GroupId": 192,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Stack Height",
+                      "GroupId": 272,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Weight",
+                      "GroupId": 273,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Top Hung Or Side Hung",
+                      "GroupId": 271,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Opening Angle",
+                      "GroupId": 274,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Window Material",
+                      "GroupId": 265,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    }
+                  ]
+                },
+                "File1": "",
+                "File2": "",
+                "File3": "",
+                "File4": "",
+                "File5": "",
+                "File6": "",
+                "File7": "",
+                "File8": "",
+                "FreePostage": false,
+                "Handing": "",
+                "Id": 26972,
+                "Image1": "",
+                "Image2": "",
+                "Image3": "",
+                "Image4": "",
+                "Image5": "",
+                "Image6": "",
+                "Image7": "",
+                "Image8": "",
+                "IsVoucher": false,
+                "Keywords": "",
+                "Language": "EN",
+                "Manufacturer": "Mila",
+                "MetaDescription": "These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition. These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the",
+                "MetaTitle": "Mila Egress Easy Clean Friction Stay",
+                "MiscFlag1": false,
+                "MiscFlag2": false,
+                "MiscFlag3": false,
+                "MiscFlag4": false,
+                "MiscText1": "",
+                "MiscText2": "",
+                "MiscText3": "",
+                "MiscText4": "",
+                "MiscText5": "",
+                "MiscText6": "",
+                "MiscText7": "",
+                "MiscText8": "",
+                "Name": "Mila Egress Easy Clean Friction Stay",
+                "PageTitle": "Mila Egress Easy Clean Friction Stay",
+                "Priority": 0,
+                "SellCount": 0,
+                "Sort": 0,
+                "Status": "OK",
+                "Text1": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "Text2": {
+                  "__cdata": "<ul><li>Available in a variety of sizes. Please refer to the table below</li><li>A friction stay that allows for maximum opening for both emergency egress and ease of cleaning</li><li>Manufactured in Ferritic Stainless Steel</li><li>Tested to 20,000 open and close cycles</li><li>Supplied in pairs</li></ul>"
+                },
+                "Text3": "",
+                "Text4": "",
+                "TextDateAdded": "0001-01-01T00:00:00",
+                "Updated": true,
+                "UpdatedDate": "2023-02-25T09:03:00"
+              },
+              "ProductVariation": {
+                "Active": true,
+                "BestSellerOverride": false,
+                "ChangeFreq": 0,
+                "CombinationCode": "",
+                "Complete": false,
+                "DateAdded": "2019-04-12T11:58:17",
+                "DateEnd": "0001-01-01T00:00:00",
+                "DateExpected": "0001-01-01T00:00:00",
+                "DatePurchase": "0001-01-01T00:00:00",
+                "DateRelease": "0001-01-01T00:00:00",
+                "DateShip": "0001-01-01T00:00:00",
+                "DateStart": "0001-01-01T00:00:00",
+                "Description": {
+                  "__cdata": "<p>These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition.</p><p>These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the opposite side of the frame for an easy clean function.</p><p>With an almost 90-degree opening angle, these side hung hinges have a recommended maximum weight of 21kg.</p>"
+                },
+                "DescriptionFile1": "",
+                "DescriptionFile2": "",
+                "DescriptionFlag1": false,
+                "DescriptionFlag2": false,
+                "DescriptionFlag3": false,
+                "DescriptionFlag4": false,
+                "DescriptionImage1": "",
+                "DescriptionImage2": "",
+                "DescriptionText1": "",
+                "DescriptionText2": "",
+                "DescriptionText3": "",
+                "DescriptionText4": "",
+                "DescriptionText5": "",
+                "DescriptionText6": "",
+                "DescriptionText7": "",
+                "DescriptionText8": "",
+                "DownloadExpiresAfterDays": 0,
+                "DownloadTimes": 0,
+                "EAN": "",
+                "Featured": false,
+                "Features": {
+                  "APIFeatureData": [
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Manufacturer",
+                      "GroupId": 83,
+                      "Id": 130,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": "Mila"
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Length",
+                      "GroupId": 161,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Type",
+                      "GroupId": 186,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Handing",
+                      "GroupId": 192,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Stack Height",
+                      "GroupId": 272,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Weight",
+                      "GroupId": 273,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Top Hung Or Side Hung",
+                      "GroupId": 271,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Max Opening Angle",
+                      "GroupId": 274,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    },
+                    {
+                      "Category": "",
+                      "CategoryId": 1,
+                      "Group": "Window Material",
+                      "GroupId": 265,
+                      "Id": 0,
+                      "MiscText": "",
+                      "SortOrder": 1,
+                      "Value": ""
+                    }
+                  ]
+                },
+                "File1": "",
+                "File2": "",
+                "File3": "",
+                "File4": "",
+                "File5": "",
+                "File6": "",
+                "File7": "",
+                "File8": "",
+                "Format": "N/A",
+                "FreeGift": false,
+                "FreeGiftPoints": 0,
+                "Genre": "",
+                "ISBN": "",
+                "Id": 26972,
+                "Image1": "",
+                "Image2": "",
+                "Image3": "",
+                "Image4": "",
+                "Image5": "",
+                "Image6": "",
+                "Image7": "",
+                "Image8": "",
+                "InDevelopment": false,
+                "InStockFlag": false,
+                "IsDefault": false,
+                "ItemId": 26972,
+                "JAN": "",
+                "KitOnly": false,
+                "KitSplit": false,
+                "Label": "",
+                "Language": "EN",
+                "LineGroupMaster": false,
+                "LoyaltyPoints": 0,
+                "ManualVATExempt": false,
+                "ManufacturerModel": "",
+                "MaxOrderQty": 10000,
+                "MetaDescription": "These Mila Egress easy clean friction stays have green colour coded end caps for easy 'emergency exit' recognition. These friction stays enable casement windows to satisfy the emergency egress requirements whilst also enabling the sash to be moved to the",
+                "MetaKeywords": "",
+                "MetaTitle": "Mila Egress Easy Clean Friction Stay",
+                "MinOrderQty": 1,
+                "MiscFile": "",
+                "MiscFlag1": false,
+                "MiscFlag2": false,
+                "MiscFlag3": false,
+                "MiscFlag4": false,
+                "MiscText1": "",
+                "MiscText2": "",
+                "MiscText3": "",
+                "MiscText4": "",
+                "MiscText5": "",
+                "MiscText6": "",
+                "MiscText7": "",
+                "MiscText8": "",
+                "Name": "Mila Egress Easy Clean Friction Stay",
+                "NewProductOverride": false,
+                "NumOfPages": 0,
+                "PackSize": 0,
+                "PageTitle": "Mila Egress Easy Clean Friction Stay",
+                "PreOrder": false,
+                "PriceBreakGroupCode": 26972,
+                "PriceBreaks": "",
+                "Prices": {
+                  "APIPriceData": {
+                    "AmountGross": 9.408,
+                    "AmountNet": 7.84,
+                    "AmountVat": 1.568,
+                    "CurrencyCodeISO2": "GB",
+                    "CurrencyCodeISO3": "GBP",
+                    "PriceType": "Default",
+                    "QuantityMin": 1,
+                    "RRPGross": 1.2,
+                    "RRPNet": 1,
+                    "RRPVat": 0.2,
+                    "StockCode": "023438config",
+                    "VariationId": 26972
+                  }
+                },
+                "Priority": 0,
+                "ProductDiscountGroup": "",
+                "ProductOfTheDay": false,
+                "Rating": "",
+                "ReorderPeriod": 0,
+                "ReviewRating": 0,
+                "Royalty": 0,
+                "RoyaltyToPay": false,
+                "SellCount": 0,
+                "SignedOff": false,
+                "Sort": 0,
+                "Status": "OK",
+                "StockCode": "023438config",
+                "StockExpectedDate": "0001-01-01T00:00:00",
+                "StockLevel": 0,
+                "Supplier": "Default",
+                "SupplierDirectFulfillment": false,
+                "SupplierOrderCode": "",
+                "UPC": "",
+                "Updated": true,
+                "UpdatedDate": "2023-02-25T09:03:00",
+                "Volume": 0,
+                "Weight": 1.12,
+                "X": 0,
+                "XForNN": 0,
+                "XForNX": 0,
+                "Y": 0,
+                "Z": 0,
+                "CategoryIds": {
+                  "int": [
+                    193,
+                    1018,
+                    1276,
+                    1392
+                  ]
+                },
+                "CategoryNames": {
+                  "string": [
+                    "Friction Stays &amp; Hinges",
+                    "Mila",
+                    "Egress Friction Stays",
+                    "Black Friday Sale"
+                  ]
+                },
+                "CategoryTrees": {
+                  "ArrayOfKeyValuePairOfintstring": [
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 193,
+                          "value": "Friction Stays &amp; Hinges"
+                        },
+                        {
+                          "key": 191,
+                          "value": "Window Hardware"
+                        },
+                        {
+                          "key": 52,
+                          "value": "Multipoint &amp; UPVC"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1134,
+                          "value": "Brands"
+                        },
+                        {
+                          "key": 1018,
+                          "value": "Mila"
+                        },
+                        {
+                          "key": 593,
+                          "value": "Manufacturer"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1276,
+                          "value": "Egress Friction Stays"
+                        },
+                        {
+                          "key": 1272,
+                          "value": "Escape"
+                        },
+                        {
+                          "key": 1270,
+                          "value": "Fire Rated &amp; Escape"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    },
+                    {
+                      "KeyValuePairOfintstring": [
+                        {
+                          "key": 1392,
+                          "value": "Black Friday Sale"
+                        },
+                        {
+                          "key": 1391,
+                          "value": "Black Friday"
+                        },
+                        {
+                          "key": 592,
+                          "value": "Special Offers"
+                        },
+                        {
+                          "key": 46,
+                          "value": "Default"
+                        },
+                        {
+                          "key": 1,
+                          "value": "Root Catalog"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              "Status": "OK"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
